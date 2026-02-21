@@ -1,0 +1,16 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Secrets and Env files (VERY IMPORTANT)
+.env
+server/.env
+
+# Build folders
+dist/
+build/
+
+# IDE and OS files
+.vscode/
+.DS_Store
